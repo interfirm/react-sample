@@ -1,0 +1,16 @@
+{
+  "name": "react-sample",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:ryym/react-sample.git",
+  "author": "ryym <ryym.64@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "gatsby develop"
+  },
+  "dependencies": {
+    "gatsby": "^2.17.17",
+    "react": "^16.12.0",
+    "react-dom": "^16.12.0"
+  }
+}
